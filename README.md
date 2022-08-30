@@ -1,5 +1,5 @@
-# Jessica Mucklow
-# Software Engineer
+# Jessica Mucklow, Software Engineer
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessmucklow&theme=deuteranopia-friendly-theme)](https://git.io/streak-stats)
 
