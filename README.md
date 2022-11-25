@@ -1,8 +1,6 @@
 # Jessica Mucklow, Software Engineer
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessmucklow&theme=deuteranopia-friendly-theme)](https://git.io/streak-stats)
-
 # Skills
 ![AWS S3](https://img.shields.io/badge/-AWS_S3-05122A?style=flat&logo=amazons3)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
