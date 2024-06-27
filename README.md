@@ -1,4 +1,4 @@
-# Jessica Mucklow, Software Engineer
+# Jessica Mucklow, Software Professional
 
 
 # Skills
